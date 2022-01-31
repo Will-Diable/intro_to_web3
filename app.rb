@@ -10,7 +10,9 @@ get '/question' do
 end
 
 get '/cat' do
-  https://i.imgur.com/jFaSxym.png
+  "<div>
+    <img src='https://i.imgur.com/jFaSxym.png'>
+  </div>"
 end
 
 get '/secret' do
